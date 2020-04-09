@@ -1,2 +1,2 @@
 <?php echo "hola";
-print("ashley pedos") ?>
+print("ashley") ?>
